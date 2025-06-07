@@ -1,6 +1,7 @@
 # Maquina Virtual
 <img align="right" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBqt_P4TlhuvChBf9ERGgpe1Qj5EJFdnuAXg&s">
 
+
 Este trabalho é um desafio da DIO para praticar o processo de criação e configuração de uma máquina virtual na plataforma Microsoft Azure.
 
 
@@ -9,6 +10,7 @@ Uma máquina virtual (VM) é um ambiente virtual criado por meio de software par
 Entre suas principais aplicações, destacam-se: a execução de múltiplos sistemas operacionais em um mesmo hardware, o isolamento e segurança, os testes de desenvolvimento de software, a virtualização na nuvem, a preservação de sistemas legados, a consolidação de servidores, entre outras. Deste modo, as VMs não apenas economizam tempo, espaço e energia, mas também atendem a múltiplas finalidades computacionais.
 
 ## Crianddo uma VM na Microsoft Azure
+<img align="right" height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png">
 
 ###  Acesso à Plataforma
 Para criar uma máquina virtual no Microsoft Azure, o primeiro passo é realizar o cadastro na plataforma. Após acessar a página inicial, basta posicionar o cursor do mouse sobre o ícone de máquina virtual para que seja exibida uma janela com um tutorial explicativo sobre o processo de criação, um recurso extremamente valioso para usuários que estão começando.
