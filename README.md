@@ -10,7 +10,7 @@ Entre suas principais aplicações, destacam-se: a execução de múltiplos sist
 
 ## Crianddo uma VM na Microsoft Azure
 
-### 1. Acesso à Plataforma
+###  Acesso à Plataforma
 Para criar uma máquina virtual no Microsoft Azure, o primeiro passo é realizar o cadastro na plataforma. Após acessar a página inicial, basta posicionar o cursor do mouse sobre o ícone de máquina virtual para que seja exibida uma janela com um tutorial explicativo sobre o processo de criação, um recurso extremamente valioso para usuários que estão começando.
 <div align="center">
   <p><strong>Tela do portal Azure mostrando o tutorial</strong></p>
@@ -21,7 +21,7 @@ Para criar uma máquina virtual no Microsoft Azure, o primeiro passo é realizar
 </div>
 Esse tutorial guia o usuário através das etapas necessárias, desde a configuração básica até a implantação final da máquina virtual, garantindo uma experiência mais intuitiva e acessível. A interface do Azure foi projetada para facilitar a navegação, com dicas e orientações que ajudam tanto iniciantes quanto usuários avançados a aproveitar ao máximo os recursos disponíveis.
 
-### 2. Criando uma Maquina Virtual
+###  Criando uma Maquina Virtual
 
 Para criar uma máquina virtual na plataforma Microsoft Azure, localize e clique no ícone com o símbolo "+ Criar recurso" no painel de navegação. Ao selecionar essa opção, será exibida uma lista com os serviços mais populares disponíveis, onde você deverá escolher a alternativa "Máquina virtual" para iniciar o processo de configuração.
 <div align="center">
